@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: trabalho-poo-ads4a
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+    driver-class-name: org.postgresql.Driver
+
+api:
+  security:
+    token:
+      secret: secret-key
