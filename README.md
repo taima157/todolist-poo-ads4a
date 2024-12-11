@@ -42,7 +42,7 @@ mvn spring-boot:run
 O Liquibase aplicará os scripts de migração automaticamente. Eles estão no diretório:
 
 
-```css
+``` css
 main/
 └── resource/
     └── db/
