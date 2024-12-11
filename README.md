@@ -36,6 +36,8 @@ mvn clean install
 mvn spring-boot:run
 ```
 
+---
+
 ## 📦 Banco de Dados
 O Liquibase aplicará os scripts de migração automaticamente. Eles estão no diretório:
 
@@ -48,6 +50,8 @@ main/
             ├── create-user.sql
             └── create-todo.sql
 ```
+
+---
 
 ## 🛠️ Tecnologias
 - Java 17
