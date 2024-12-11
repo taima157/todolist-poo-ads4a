@@ -26,7 +26,7 @@ Defina as variáveis de ambiente necessárias:
 - DB_URL: URL do banco (ex.: jdbc:postgresql://localhost:5432/todolist)
 - DB_USERNAME: Usuário do banco.
 - DB_PASSWORD: Senha do banco.
-- JWT_KEY: Chave secreta para autenticação JWT.
+- JWT_TOKEN_KEY: Chave secreta para autenticação JWT.
 
 ### 3️⃣ Rodar a Aplicação
 Use os comandos abaixo:
